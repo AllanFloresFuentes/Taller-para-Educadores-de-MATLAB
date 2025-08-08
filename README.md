@@ -1,7 +1,7 @@
 Estructura de ejemplo para un archivo README.md. Después de crear tu actividad, puedes generar un archivo README reemplazando el texto instructivo en este archivo. Los ejemplos terminados se verán de manera similar a [este](https://github.com/MathWorks-Teaching-Resources/Calculus-Derivatives_es).
 # Adicione aquí el Titulo de la Actividad de Enseñanza
 
-Vincula tu actividad a [File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/my-file-exchange/github-app-installation-guide) y añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathworks.com/products/matlab-online/git.html).
+Añade una insignia de [Abrir en MATLAB&reg; Online&trade;](https://www.mathworks.com/products/matlab-online/git.html).
 
 [![Abrir en MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Taller-para-Educadores-de-MATLAB)
 <!-- Agrega el icono de "File Exchange" al README si este repositorio también aparece en File Exchange mediante la función "Connect to GitHub" -->
